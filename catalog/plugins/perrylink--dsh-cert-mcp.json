@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "PerryLink/dsh-cert-mcp",
+  "name": "dsh-cert-mcp",
+  "repository": "https://github.com/PerryLink/dsh-cert-mcp",
+  "category": "dev",
+  "description": {
+    "en": "Read-only MCP server that exposes the dsh-plugin-certification registry: certification grades, snapshot dates, and five-dimension evidence for DeepSeek Harness plugins. Zero runtime dependencies, stdio transport.",
+    "zh": "只读 MCP 服务器，暴露 dsh-plugin-certification 注册表：DeepSeek Harness 插件的认证等级、快照日期与五维证据；零运行时依赖，stdio 传输。"
+  },
+  "added": "2026-09-13"
+}
