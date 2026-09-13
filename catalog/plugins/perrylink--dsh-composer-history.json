@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "PerryLink/dsh-composer-history",
+  "name": "dsh-composer-history",
+  "repository": "https://github.com/PerryLink/dsh-composer-history",
+  "category": "ui",
+  "description": {
+    "en": "Terminal-style input history for the web composer: edge-first arrow-key recall with exact draft/caret restore, browser-local persisted history, Ctrl+R reverse search, and sliding-context awareness.",
+    "zh": "Web 作曲器终端风格输入历史：边缘优先的方向键召回并精确还原草稿与光标、浏览器本地持久化历史、Ctrl+R 反向搜索，以及滑动上下文感知。"
+  },
+  "added": "2026-09-13"
+}
