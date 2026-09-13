@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "PerryLink/dsh-plugin-doctor",
+  "name": "dsh-plugin-doctor",
+  "repository": "https://github.com/PerryLink/dsh-plugin-doctor",
+  "category": "dev",
+  "description": {
+    "en": "Zero-dependency static + sandbox smoke detector for DeepSeek Harness plugins: one run covers repository static checks (R), cordis contract scanning (K), dynamic sandbox smoke (D) and catalog listing verification (CC).",
+    "zh": "DeepSeek Harness 插件「完整性 + 运行流畅」一体检测器：零依赖，一次运行覆盖包结构静态检查（R）、cordis 契约扫描（K）、动态沙箱冒烟（D）与生态集合站清单校验（CC）四层。"
+  },
+  "added": "2026-09-13"
+}
