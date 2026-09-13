@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "PerryLink/dsh-local-ai",
+  "name": "dsh-local-ai",
+  "repository": "https://github.com/PerryLink/dsh-local-ai",
+  "category": "model",
+  "description": {
+    "en": "Ollama provider for DeepSeek Harness with model management, health checks, rule-based local routing, and cloud fallback.",
+    "zh": "DeepSeek Harness 的 Ollama 接入：模型管理、健康检查、基于规则的本地路由与云端回退。"
+  },
+  "added": "2026-09-13"
+}
